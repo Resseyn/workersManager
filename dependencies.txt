@@ -1,0 +1,5 @@
+python-dotenv
+aiogram
+lxml_html_clean
+fake-useragent
+requests
